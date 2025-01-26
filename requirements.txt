@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+fpdf
+pyvi
+tqdm
+gensim
+bs4
